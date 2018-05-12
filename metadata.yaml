@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9010'
     url: http://www.gutenberg.org/2009/agents/9010
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19984#Du-service-des-postes-et-de-la-taxation-des-lettres-au-moyen-d-un-timbre
 gutenberg_bookshelf:
 - The Philatelic Digital Library Project
 - FR Services publics
