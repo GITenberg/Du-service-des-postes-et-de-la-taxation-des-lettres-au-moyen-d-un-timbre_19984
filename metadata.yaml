@@ -1,0 +1,29 @@
+_repo: Du-service-des-postes-et-de-la-taxation-des-lettres-au-moyen-d-un-timbre_19984
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Piron, A.
+    gutenberg_agent_id: '9010'
+    url: http://www.gutenberg.org/2009/agents/9010
+description: ''
+gutenberg_bookshelf:
+- The Philatelic Digital Library Project
+- FR Services publics
+gutenberg_issued: '2006-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19984'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Taxation -- France'
+- !lcc 'HE'
+- !lcc 'DC'
+- !lcsh 'Postal service -- France'
+title: Du service des postes et de la taxation des lettres au moyen d'un timbre
+url: http://www.gutenberg.org/ebooks/19984
